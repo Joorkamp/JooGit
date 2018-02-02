@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JooGit
 {
-    class hotfix
+    class Hotfix
     {
     }
 }
